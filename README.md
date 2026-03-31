@@ -10,18 +10,16 @@ Hi there! 👋 I'm eaS, a Computer Programming student and tech enthusiast based
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easserz&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="easserz GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=easserz&theme=aura&show_icons=true&hide_border=false" alt="easserz GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=easserz&theme=aura&hide_border=false" alt="easserz Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easserz&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="easserz Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easserz&theme=aura&layout=compact&hide_border=false" alt="easserz Top Languages" />
 </div>
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=easserz&icon=0&color=0" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=easserz&label=Profile%20Views&color=a277ff&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
