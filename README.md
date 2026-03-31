@@ -10,11 +10,11 @@ Hi there! 👋 I'm eaS, a Computer Programming student and tech enthusiast based
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easserz&theme=aura&show_icons=true&hide_border=false" alt="easserz GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=easserz&theme=aura&show_icons=true&hide_border=false&v=1" alt="easserz GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=easserz&theme=aura&hide_border=false" alt="easserz Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easserz&theme=aura&layout=compact&hide_border=false" alt="easserz Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=easserz&theme=aura&layout=compact&hide_border=false&v=1" alt="easserz Top Languages" />
 </div>
 
 ---
